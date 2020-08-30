@@ -7,6 +7,9 @@ import Group from '@vkontakte/vkui/dist/components/Group/Group';
 import Cell from '@vkontakte/vkui/dist/components/Cell/Cell';
 import Div from '@vkontakte/vkui/dist/components/Div/Div';
 import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
+import ScreenSpinner from '@vkontakte/vkui/dist/components/ScreenSpinner/ScreenSpinner';
+import Icon24Back from '@vkontakte/icons/dist/24/back';
+import Icon16Verified from '@vkontakte/icons/dist/16/verified';
 
 const Home = ({ id, go, fetchedUser }) => (
 	
