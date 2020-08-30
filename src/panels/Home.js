@@ -9,6 +9,7 @@ import Div from '@vkontakte/vkui/dist/components/Div/Div';
 import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
 
 const Home = ({ id, go, fetchedUser }) => (
+	
 );
 
 Home.propTypes = {
