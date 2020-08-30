@@ -12,7 +12,8 @@ import Icon24Back from '@vkontakte/icons/dist/24/back';
 import Icon16Verified from '@vkontakte/icons/dist/16/verified';
 
 const Home = ({ id, go, fetchedUser }) => (
-	
+	<Panel id={id}>
+	</Panel>
 );
 
 Home.propTypes = {
